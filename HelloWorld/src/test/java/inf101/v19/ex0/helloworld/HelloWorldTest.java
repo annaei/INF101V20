@@ -6,11 +6,11 @@ import java.lang.Runtime.Version;
 
 import org.junit.jupiter.api.Test;
 
-class HelloWorldTest extends HelloWorld {
+class HelloWorldTest{
 
 	@Test 
 	void testGetHelloWorld() {
-		assertTrue(getHelloWorld().equals("Hello World!"));
+		assertTrue(HelloWorld.getHelloWorld().equals("Hello World!"));
 	}
 
 	@Test
