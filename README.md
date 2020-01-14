@@ -97,7 +97,7 @@ Vi bruker [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)) IDE versjo
 
 Velg riktig mappe for Java 13-installasjonen din før du trykker på INSTALL. Hvis du ikke ser Java 13 i nedtrekksmenyen kan du finne riktig mappe ved å gå til terminalen din og skrive kommandoen ```which java``` i Linux/Unix/Mac OS X eller ```where java``` i Windows. 
 
-Når du er ferdig å installere Eclipse kan du åpne den og velge et passende navn for ditt [workspace](https://www.eclipse.org/forums/index.php/t/447044/)". 
+Når du er ferdig å installere Eclipse kan du åpne den og velge et passende navn for ditt [workspace](https://www.eclipse.org/forums/index.php/t/447044/). 
 
 Når Eclipse allerede er åpen finner du versjons-informasjon i menyen under Eclipse -> About Eclipse for Mac og Help -> About Eclipse for Windows.
 
@@ -153,7 +153,7 @@ Naviger deg til en mappe du vil laste ned prosjektet til i et terminalvindu, og 
 
 ```> git clone https://github.com/annaei/INF101V20.git```
 
-Når kloningen er ferdig må du sjekke at Java-prosjektet ligger i den mappen du befinner deg i. Bruk ```ls``` / ```dir``` og sjekk at det ligger en ny mappe "INF101V20" der. Bruk kommandoen ```cd INF101V20/INF101-V20-Ex00``` for å navigere deg inn i prosjekt-mappen. Bruk kommandoen ```ls``` / ```dir``` igjen for å sjekke at filen ```pom.xml``` ligger i mappen.
+Når kloningen er ferdig må du sjekke at Java-prosjektet ligger i den mappen du befinner deg i. Bruk ```ls``` / ```dir``` og sjekk at det ligger en ny mappe "INF101V20" der. Bruk kommandoen ```cd INF101V20/HelloWorld``` for å navigere deg inn i prosjekt-mappen. Bruk kommandoen ```ls``` / ```dir``` igjen for å sjekke at filen ```pom.xml``` ligger i mappen.
 
 #### Troubleshooting 
 - Når du kloner fra et git-repositorie så lastes filene ned over nettet. Du må derfor ha en aktiv internett-tilkobling. 
