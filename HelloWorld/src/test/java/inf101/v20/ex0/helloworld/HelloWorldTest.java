@@ -1,10 +1,12 @@
-package inf101.v19.ex0.helloworld;
+package inf101.v20.ex0.helloworld;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.lang.Runtime.Version;
 
 import org.junit.jupiter.api.Test;
+
+import inf101.v20.ex0.helloworld.HelloWorld;
 
 class HelloWorldTest{
 

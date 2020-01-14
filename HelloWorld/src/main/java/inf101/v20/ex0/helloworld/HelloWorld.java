@@ -1,4 +1,4 @@
-package inf101.v19.ex0.helloworld;
+package inf101.v20.ex0.helloworld;
 
 /**
  * Skriver ut Hello world! 
