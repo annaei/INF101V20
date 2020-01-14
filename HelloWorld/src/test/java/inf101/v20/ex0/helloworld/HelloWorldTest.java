@@ -17,7 +17,7 @@ class HelloWorldTest{
 
 	@Test
 	void testJavaVersion() {
-		String minimalJavaVersion = "13.0.1";
+		String minimalJavaVersion = "13";
 		String currentJavaVersion = System.getProperty("java.version");
 		Version current = Runtime.Version.parse(currentJavaVersion);
 		Version minimal = Runtime.Version.parse(minimalJavaVersion);
