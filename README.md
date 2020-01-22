@@ -1,5 +1,3 @@
-Dette repositoriet inneholder Hello World-prosjektet som er del av installasjons-oppgaven første uken i INF101 Vår 2020 ved UiB.
-
 # Oppsett av Java og Eclipse integrert utviklingsmiljø (IDE)
 
 _Dette dokumentet beskriver hvordan du installerer programvaren du trenger for INF101 - vår 2020._
