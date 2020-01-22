@@ -94,7 +94,7 @@ NB: Disse to kommandoene vil ikke ødelegge, slette eller endre noe på PCen din
 
 Vi bruker [Eclipse](<https://en.wikipedia.org/wiki/Eclipse_(software)>) IDE versjon 2019-12 til utvikling i dette kurset. Dersom du har Eclipse installert allerede må du sjekke hvilken versjon du har; tidligere versjoner vil ikke
 
-[Klikk her for å last ned og installere Eclipse IDE 2019-12](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers). Velg ditt operativsystem under Download Links og kjør den nedlastede installasjons-filen.
+[Klikk her for å laste ned og installere Eclipse IDE 2019-12](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers). Velg ditt operativsystem under Download Links og kjør den nedlastede installasjons-filen. Windows-brukere som ikke er vant til å installere fra en .zip-fil kan trykke på fanen "Eclipse Installer" oppe til venstre og laste ned installeringsprogrammet til Eclipse i stedet.
 
 **Du må installere Eclipse for Java Developers, ikke Java EE Developers, C/C++, etc.**
 
